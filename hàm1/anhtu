@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+void nhap(int &n){
+  cout<<" please,you enter your age: ";cin>>age;
+}
+int main(){
+  int age;
+nhap(age);
+}
